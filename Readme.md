@@ -2,7 +2,7 @@ Brokerage Application
 
 Setup Instructions
 -----------------------------------------------------------
-git clone https://github.com/your-repo/BrokerageApplication.git
+git clone https://github.com/umredonmezer/BrokerageApplication.git
 
 cd BrokerageApplication
 
